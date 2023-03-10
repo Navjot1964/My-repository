@@ -10,10 +10,10 @@ int main() {
         num /= 10;
     }
     if(sum == temp) {
-        printf("This is Armstrong number! ");
+        printf("Armstrong number! ");
     }
     else {
-        printf("This is not a armstrong number! ");
+        printf("Not armstrong number! ");
     }
     return 0;
 }
